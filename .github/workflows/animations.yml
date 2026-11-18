@@ -15,6 +15,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Pac-Man, Breakout, Tetris
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman,breakout,tetris"
+
+      # runs after Pac-Man: its container writes as root
       - name: Snake
         uses: Platane/snk@v3
         with:
@@ -22,12 +29,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#70a5fd
-
-      - name: Pac-Man, Breakout, Tetris
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout,tetris"
 
       - name: 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
@@ -37,7 +38,7 @@ jobs:
 
       - name: Collect outputs
         run: |
-          mkdir -p dist
+          sudo chown -R "$USER" dist
           cp profile-3d-contrib/*.svg dist/
           ls -la dist
 
