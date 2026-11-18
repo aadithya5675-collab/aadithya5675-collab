@@ -36,12 +36,12 @@ web:       React · Next.js · TypeScript · Supabase · GSAP
 ## 📌 Featured projects
 
 <p align="center">
-  <a href="https://github.com/aadithya5675-collab/drone-swarm-s.3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=drone-swarm-s.3&theme=tokyonight&hide_border=true&border_radius=10" alt="drone-swarm-s.3"/></a>
-  <a href="https://github.com/aadithya5675-collab/rover_obstacle_avoidance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=rover_obstacle_avoidance&theme=tokyonight&hide_border=true&border_radius=10" alt="rover_obstacle_avoidance"/></a>
-  <a href="https://github.com/aadithya5675-collab/e-Yantra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=e-Yantra&theme=tokyonight&hide_border=true&border_radius=10" alt="e-Yantra"/></a>
-  <a href="https://github.com/aadithya5675-collab/suyambu-travels"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=suyambu-travels&theme=tokyonight&hide_border=true&border_radius=10" alt="suyambu-travels"/></a>
-  <a href="https://github.com/aadithya5675-collab/dhasvika-travels"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=dhasvika-travels&theme=tokyonight&hide_border=true&border_radius=10" alt="dhasvika-travels"/></a>
-  <a href="https://github.com/aadithya5675-collab/forge-gym-membership"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=forge-gym-membership&theme=tokyonight&hide_border=true&border_radius=10" alt="forge-gym-membership"/></a>
+  <a href="https://github.com/aadithya5675-collab/drone-swarm-s.3"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=drone-swarm-s.3&theme=tokyonight&hide_border=true&border_radius=10" alt="drone-swarm-s.3"/></a>
+  <a href="https://github.com/aadithya5675-collab/rover_obstacle_avoidance"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=rover_obstacle_avoidance&theme=tokyonight&hide_border=true&border_radius=10" alt="rover_obstacle_avoidance"/></a>
+  <a href="https://github.com/aadithya5675-collab/e-Yantra"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=e-Yantra&theme=tokyonight&hide_border=true&border_radius=10" alt="e-Yantra"/></a>
+  <a href="https://github.com/aadithya5675-collab/suyambu-travels"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=suyambu-travels&theme=tokyonight&hide_border=true&border_radius=10" alt="suyambu-travels"/></a>
+  <a href="https://github.com/aadithya5675-collab/dhasvika-travels"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=dhasvika-travels&theme=tokyonight&hide_border=true&border_radius=10" alt="dhasvika-travels"/></a>
+  <a href="https://github.com/aadithya5675-collab/forge-gym-membership"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aadithya5675-collab&repo=forge-gym-membership&theme=tokyonight&hide_border=true&border_radius=10" alt="forge-gym-membership"/></a>
 </p>
 
 ## 🧰 Tech stack
@@ -61,8 +61,8 @@ web:       React · Next.js · TypeScript · Supabase · GSAP
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aadithya5675-collab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadithya5675-collab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadithya5675-collab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadithya5675-collab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages"/>
 </p>
 
 <p align="center">
