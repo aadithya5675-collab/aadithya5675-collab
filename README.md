@@ -1,11 +1,8 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Aadithya G 👋
 
-**[One-line focus, e.g. "Robotics & full-stack developer building autonomous systems and web apps"]**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-[your--site]-0A66C2?style=for-the-badge)](https://[your-portfolio-url])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[your--handle]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-handle])
+**Robotics & full-stack developer building autonomous systems and web apps**
 
 </div>
 
@@ -38,9 +35,3 @@
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadithya5675-collab&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aadithya5675-collab&theme=tokyonight&hide_border=true" />
-
-### 📫 Let's connect
-- 📧 Email: [your-email]
-- 🌍 Based in: [your-city]
-
-<!-- Tip: replace [placeholders], then commit. Refresh the stats cards by reloading the page. -->
